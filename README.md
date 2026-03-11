@@ -13,6 +13,3 @@ cheatsheets für Git und Markdown
 11.Lade die Cheatsheets hoch (PDF oder .md Datei)                                                                                                         
 12.Unten schreibe bei Commit Massage: **Add Git and Markdown cheatsheets**                                                                                
 13.Klicke **Commit changes**                                                                                                                              
-|montag|dienstag|mittwoch|  
-|:-----|:-------|:-------|   
-|  ja  |  nein  |   ja   |
